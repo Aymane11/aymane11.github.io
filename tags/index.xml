@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on enamya | blog</title>
     <link>https://aymane11.github.io/tags/</link>
@@ -34,11 +34,38 @@
     </item>
     
     <item>
+      <title>snippets</title>
+      <link>https://aymane11.github.io/tags/snippets/</link>
+      <pubDate>Sat, 02 Apr 2022 12:59:18 +0000</pubDate>
+      
+      <guid>https://aymane11.github.io/tags/snippets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIL</title>
+      <link>https://aymane11.github.io/tags/til/</link>
+      <pubDate>Sat, 02 Apr 2022 12:59:18 +0000</pubDate>
+      
+      <guid>https://aymane11.github.io/tags/til/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tools</title>
       <link>https://aymane11.github.io/tags/tools/</link>
       <pubDate>Sat, 02 Apr 2022 12:59:18 +0000</pubDate>
       
       <guid>https://aymane11.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vscode</title>
+      <link>https://aymane11.github.io/tags/vscode/</link>
+      <pubDate>Sat, 02 Apr 2022 12:59:18 +0000</pubDate>
+      
+      <guid>https://aymane11.github.io/tags/vscode/</guid>
       <description></description>
     </item>
     

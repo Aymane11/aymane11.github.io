@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>setup on enamya | blog</title>
     <link>https://aymane11.github.io/tags/setup/</link>
@@ -12,8 +12,7 @@
       <pubDate>Sat, 02 Apr 2022 12:59:18 +0000</pubDate>
       
       <guid>https://aymane11.github.io/posts/setup-python-environment/</guid>
-      <description>Introduction Whenever I want to start a new Python project, I used to go for the standard venv included with Python. But, I easily got rid of it, since the folder it creates makes my editor too clumsy.
-Afterwards, I discovered Pipenv and I was very happy with it, until I figured out that it doesn&amp;rsquo;t work well with some packages (e.g. colorama), since it specifies the platform type in the Pipfile.</description>
+      <description>A quick overview on how I setup my Python environment</description>
     </item>
     
   </channel>
