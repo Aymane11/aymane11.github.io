@@ -15,5 +15,16 @@
       <description>A quick overview on how I setup my Python environment</description>
     </item>
     
+    <item>
+      <title>Visual Studio Code Snippets</title>
+      <link>https://aymane11.github.io/today-i-learned/visual-studio-code-snippets/</link>
+      <pubDate>Sat, 02 Apr 2022 12:59:18 +0000</pubDate>
+      
+      <guid>https://aymane11.github.io/today-i-learned/visual-studio-code-snippets/</guid>
+      <description>Today I learned about Visual Studio Code Snippets, these are code templates that save you the time wasted writing repeating code.
+To create your own code snippets, select File &amp;gt; Preferences &amp;gt; User Snippets and then select the language you want to create snippets for. You can use the Snippet Generator extension, or this snippet generator webapp (my personal pereference) to help you create the snippets JSON file.
+   This is a list of snippets that I created for Python 🐍.</description>
+    </item>
+    
   </channel>
 </rss>
