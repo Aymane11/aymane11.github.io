@@ -5,7 +5,16 @@
     <link>https://aymane11.github.io/posts/</link>
     <description>Recent content in Posts on enamya | blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 03 Sep 2022 11:13:57 +0000</lastBuildDate><atom:link href="https://aymane11.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jan 2023 18:19:19 +0100</lastBuildDate><atom:link href="https://aymane11.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Spark Gotchas</title>
+      <link>https://aymane11.github.io/posts/apache-spark-gotchas/</link>
+      <pubDate>Wed, 18 Jan 2023 18:19:19 +0100</pubDate>
+      
+      <guid>https://aymane11.github.io/posts/apache-spark-gotchas/</guid>
+      <description>Apache Spark is an open-source, distributed computing system that provides a wide range of tools for data processing, analytics, and machine learning. It&amp;rsquo;s a popular choice for many organizations due to its ability to scale and its support for a wide range of programming languages. However, like any complex system, there are a few gotchas that users should be aware of when working with Spark. In this post, I will cover some of the most common gotchas that I learned while working with Spark, it will also be a sort of summary of some concepts I read about in the Learning Spark: Lightning-Fast Big Data Analysis book (link).</description>
+    </item>
+    
     <item>
       <title>Avoid dependency hell in Python using pip</title>
       <link>https://aymane11.github.io/posts/avoid-dependecy-hell-in-python-using-pip/</link>
